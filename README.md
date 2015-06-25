@@ -1,2 +1,2 @@
 # EcoLite
-Gestion Scolaire
+Gestion scolaire
