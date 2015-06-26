@@ -1,3 +1,0 @@
-sl_configuration_etablissement:
-    path:     /
-    defaults: { _controller: SLEtablissementBundle:Etablissement:index }
