@@ -1,0 +1,4 @@
+sl_home_homepage:
+    path:     /
+    defaults: { _controller: SLHomeBundle:Home:index }
+

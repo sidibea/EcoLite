@@ -1,0 +1,10 @@
+sl_etablissement:
+    resource: "@SLEtablissementBundle/Resources/config/routing.yml"
+    prefix:   /etablissement
+
+sl_home:
+    resource: "@SLHomeBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+
